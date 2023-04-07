@@ -1,2 +1,2 @@
 # GameJam
-C'est la Game Jam youpi
+Latest build : https://paradoxhole.itch.io/labyrinthou
